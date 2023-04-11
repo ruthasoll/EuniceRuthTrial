@@ -21,7 +21,7 @@ main{
     height: 100%;
  }
 #tribute-info {
-    width: 100%;
+    width: 50%;
     padding-left:20%;
     padding-top: 10px;
     margin-top: 10px;
@@ -36,16 +36,10 @@ main{
 #footer {
     margin: 20px;
 }
-#img-caption{
-    margin: 10px;
-    padding: 10px;
-
-}
 #lists{
     text-align: center;
 }
 
-#img-didv{
-    margin: 10px;
-    padding: 10px;
+caption{
+    margin: 100px;
 }
