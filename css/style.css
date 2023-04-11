@@ -7,3 +7,16 @@ body{
 main{
     text-align: center;
 }
+#tribute-info > h2{
+    margin: auto;
+}
+
+#tribute-info > div > ul > li{
+    width: 50%;
+    margin: auto;
+    line-height: 40px;
+    
+}
+#footer {
+    margin: 20px;
+}
