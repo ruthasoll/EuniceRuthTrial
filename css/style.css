@@ -7,16 +7,21 @@ body{
 main{
     text-align: center;
 }
-#tribute-info > h2{
-    margin: auto;
-}
 
-#tribute-info > div > ul > li{
+
+#tribute-info {
     width: 50%;
-    margin: auto;
     line-height: 40px;
+    padding-left:20%;
+    padding-top: 10px;
+    margin-top: 10px;
     
 }
 #footer {
     margin: 20px;
+}
+#img-caption{
+    margin: 10px;
+    padding: 10px;
+
 }
