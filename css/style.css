@@ -7,17 +7,16 @@ body{
 main{
     text-align: center;
 }
-#title{
-    padding: 10px;
+#tribute-info > h2{
+    margin: auto;
 }
-#img-div{
-    padding-left: 60px;
+
+#tribute-info > div > ul > li{
+    width: 50%;
+    margin: auto;
+    line-height: 40px;
+    
 }
-#img-caption{
-    padding: 10px;
-    margin-top: 5px;
- }
- 
- #unorderedList{
-    text-align: center;
- }
+#footer {
+    margin: 20px;
+}
