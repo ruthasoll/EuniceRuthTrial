@@ -16,6 +16,7 @@ main{
     padding-top: 10px;
     margin-top: 10px;
     
+     
 }
 #footer {
     margin: 20px;
@@ -24,4 +25,12 @@ main{
     margin: 10px;
     padding: 10px;
 
+}
+#lists{
+    text-align: center;
+}
+
+#img-didv{
+    margin: 10px;
+    padding: 10px;
 }
